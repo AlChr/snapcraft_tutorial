@@ -6,7 +6,7 @@ assets:
 project_options: {deb_arch: amd64}
 properties:
   plugin: make
-  source: /home/ubuntu/Documents/project
+  source: ./project
   source-branch: ''
   source-commit: ''
   source-depth: 0
