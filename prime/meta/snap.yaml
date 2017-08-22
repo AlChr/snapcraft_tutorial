@@ -1,8 +1,0 @@
-architectures:
-- amd64
-confinement: devmode
-description: "\t snap tutorial description\n"
-grade: devel
-name: snaptutorial10
-summary: snap tutorial summary
-version: '0.1'
