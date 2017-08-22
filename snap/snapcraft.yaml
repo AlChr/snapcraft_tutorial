@@ -4,8 +4,8 @@ summary: snap tutorial summary
 description: |
   	 snap tutorial description
 
-grade: devel 
-confinement: devmode 
+grade: stable #devel 
+confinement: strict 
 
 parts:
   gnu-snap:
